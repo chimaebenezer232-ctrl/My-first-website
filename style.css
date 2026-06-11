@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray;
+}
+h1 {
+    text-align: center;
+}
+button {
+    background-color: rgba(52, 52, 227, 0.881);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
