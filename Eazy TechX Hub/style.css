@@ -159,6 +159,7 @@ img{
 .btn2:hover{
     background:#f97316;
     color:white;
+    transform:translateY(-3px);
 }
 
 .btn-secondary{
